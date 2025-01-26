@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+margin-left: 20px;
+}
+
+main{
+    background-color: rgb(243, 247, 247);
+    padding: 40px;
+    padding-bottom: 100%;
+    
+}
+
+body{
+    font-family: sans-serif;
+}
+.container2{
+    margin: 0 auto;
+    width: 80%;
+}
+
+ul{
+    list-style: none;
+}
+.lista-completa{
+    background-color: white;
+    padding: 20px 30px;
+}
+.container{
+    margin: 0 auto;
+    width: 80%;
+    background-color: white;
+    padding: 10px 30px;
+    border-bottom: 2px solid rgb(243, 247,247) ;
+}
+
+.tag{
+border-radius: 20px;
+padding: 5px 10px;
+color: white;
+display: inline-block;
+font-size: 10px;
+}
+
+.editorial{
+    background-color: rgb(135, 206, 235);
+}
+ 
+.q1{
+    background-color: rgb(162, 80, 162);
+}
+
+.recruiting{
+    background-color: rgb(32, 178, 170);
+
+}
+
+.mobile{
+    background-color: rgb(255, 165, 0);
+
+}
+
+.website{
+    background-color: rgb(238, 130, 238);
+
+}
+
+.sales{
+    background-color: rgb(144, 238, 144);
+}
+
+.task{
+    background-color: rgb(173, 216, 230);
+    border-radius: 5px;
+    padding: 3px 12px;
+}
+
+.section{
+    border: 1px solid rgb(9, 9, 9);
+    border-radius: 5px;
+    padding:3px 12px ;
+    
+}
+
+.cerchio{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    line-height: 20px;
+    text-align: center;
+    font-weight: 5px;
+    display: inline-block;
+    font-size: 20px;
+    
+}
+
+.verde{
+    border: 1px solid rgb(2, 129, 2);
+    color: rgb(2, 129, 2);
+}
+
+.rosso{
+    border: 1px solid rgb(254, 2, 2);
+    color: rgb(254, 2, 2);
+}
+
+.testo{
+    font-size: 12px;
+    
+}
+
+.titolo{
+    margin-top: 20px;
+}
+li{
+    margin-top: 10px;
+}
